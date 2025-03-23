@@ -9,7 +9,7 @@
 
 ## 🔗 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-rakesh-singh)  
-📫 **Email**: [Your Email] | 🌐 **Portfolio**: [Your Portfolio Link]  
+📫 **Email**: [Your Email] | 🌐 **Portfolio**: (https://ritesh-sudo.github.io/MyPortfolio/)
 
 ---
 
@@ -39,18 +39,10 @@
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ritesh-sudo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-sudo&theme=radical"/>  
-</div>  
-
----
-
 ## 🚀 Projects  
-🔹 **[Project Name 1](#)** – AI-based predictive maintenance for autonomous vehicles  
-🔹 **[Project Name 2](#)** – Intelligent autonomous security robot simulation  
-🔹 **[Project Name 3](#)** – Cloud-based AI service for anomaly detection  
+🔹 AI-based predictive maintenance for autonomous vehicles  
+🔹 Intelligent autonomous security robot simulation  
+🔹 Cloud-based AI service for anomaly detection  
 
 *(More projects available on my GitHub!)*  
 
