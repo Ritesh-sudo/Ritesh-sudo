@@ -57,9 +57,3 @@
 
 ## 💡 Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-### 🚀 **Let's Connect & Build the Future Together!**  
-
-[![Profile Visits](https://visitcount.itsvg.in/api?id=Ritesh-sudo&icon=2&color=0)](https://visitcount.itsvg.in)
