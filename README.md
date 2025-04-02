@@ -9,7 +9,7 @@
 
 ## 🔗 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-rakesh-singh)  
-📫 **Email**: [Your Email] | 🌐 **Portfolio**: (https://ritesh-sudo.github.io/MyPortfolio/)
+📫 **Email**: riteshsingh30200@gmail.com | 🌐 **Portfolio**: (https://ritesh-sudo.github.io/MyPortfolio/)
 
 ---
 
